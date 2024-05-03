@@ -2,5 +2,23 @@
     -webkit-box-shadow: 0 8px 6px -6px #999;
     -moz-box-shadow: 0 8px 6px -6px #999;
     box-shadow: 0 8px 6px -6px #999;
-    
+    padding: 0px !important;
+}
+
+.navbar .navbar-brand {
+    margin: 0;
+    line-height: 65px;
+    padding: 0 0px 0 0px;
+}
+
+.navbar-brand {
+    position: relative;
+    width: 170px;
+    left: 0px;
+}
+
+img {
+    vertical-align: top !important;
+    border-style: none;
+    height: 65px;
 }
